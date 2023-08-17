@@ -1,0 +1,78 @@
+body{
+    font-family: bahnschrift condensed, sans-serif;
+    background-color: rgb(239, 243, 243);
+    max-width: 100%;
+
+}
+span{
+    color: dodgerblue;
+    font-size: 20pt;
+}
+input{
+    outline: none;
+    height: 30px;
+    margin-top: 10px;
+    width: 150px;
+}
+div a img#perfil{
+    background-color: darkgrey;
+    border-radius: 40px;
+    max-width: 100%;
+}
+div.livros{
+    display: flex;
+}
+section{
+    padding: 10px;
+    font-size: 17pt;
+    margin: 30px 0px -50px 0px;
+}
+article{
+    margin-left: 15px;
+    text-indent: 5px;
+    font-size: 15pt;
+}
+.imagem{
+    background-image: url('../_imagens/fundo.jpg');
+    background-size: cover;
+    width: 100%;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    color: white;
+}
+.views{
+    font-size: 12pt;
+}
+.comente{
+    margin-left: 15px;
+}
+
+p#ver_mais{
+    text-decoration: underline;
+    font-size: 13pt;
+}
+
+footer{
+    margin-top: 20px;
+    text-indent: 60px;
+    clear: both;
+    width: 1365px;
+    max-width: 100%;
+    display: flex;
+    background-color: rgb(133, 133, 133);
+    color: white;
+}
+p#booklet{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+p#desc{
+    width: 600px;
+    max-width: 100%;
+    margin-left:50px;
+    margin-top: 20px;
+    text-indent: 0px;
+}
+footer span{
+    font-family: Algerian Black;
+}

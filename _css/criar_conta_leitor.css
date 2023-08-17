@@ -1,0 +1,67 @@
+div#interface{
+    background-color: rgb(239, 243, 243);
+    width: 1365px;
+    max-width: 100%;
+    margin:-10px auto -10px auto;
+    box-shadow: 1px 2px 4px black;
+    text-indent: 15px;
+    font-family: bahnschrift condensed, sans-serif;
+}
+#cabecalho{
+    border-bottom: 1px white solid;
+    height: 80px;
+    background-color: rgb(225, 233, 233);
+    padding: 10px;
+}
+#cabecalho p{
+    font-size: 20pt;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+span{
+    color: dodgerblue;
+    font-size: 25pt;
+}
+section{
+    text-align: center;
+    margin-bottom: 80px;
+}
+fieldset{
+    width: 500px;
+    max-width: 100%;
+    border-color: white;
+    margin: auto;
+}
+input.form-control{
+    height: 40px;
+    width: 250px;
+    max-width: 100%;
+    font-size: 12pt;
+    margin-left: 140px;
+    margin-bottom: 10px;
+}
+#a{
+    width: 250px;
+    max-width: 100%;
+    font-size: 12pt;
+    margin-left: 140px;
+    margin-bottom: 10px;
+}
+
+div#ver_senha{
+    width: 250px;
+    max-width: 100%;
+    margin-left: 140px;
+    margin-bottom: 10px;
+}
+label#ver{
+    margin-left: -180px;
+}
+
+#conf{
+    margin-left: 30px;
+}
+
+#canc{
+    margin-left: 50px;
+}
